@@ -1,5 +1,7 @@
 # 📈 TS Price Prediction | 时序价格预测系统
 
+> **Repository / 仓库地址**: https://github.com/penghaow3w/ts-price-prediction
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.1%2B-orange.svg" alt="PyTorch">
